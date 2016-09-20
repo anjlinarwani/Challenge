@@ -26,7 +26,7 @@ Use the workshop branch to clone the repository to your local workspace and to p
 ###Have Git bash?
 Need to install git bash visit https://git-scm.com/downloads
 
-###Have Node/NPM?
+###Have Node and NPM?
 Need to install NPM package manager for javascript and Node java https://nodejs.org/en/
 
 ##Clone the branch workshop
