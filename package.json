@@ -1,0 +1,32 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": "JS AUH Meetup\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[CNaders JS AUH Meetup Challenge",
+  "main": "JSbank.js",
+  "dependencies": {
+    "mathjs": "^3.5.1",
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "console.log('Hi');"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anjlinarwani/Challenge.git"
+  },
+  "keywords": [
+    "JS",
+    "NPM",
+    "Node",
+    "Packages",
+    "Abu",
+    "Dhabi"
+  ],
+  "author": "JS AUH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anjlinarwani/Challenge/issues"
+  },
+  "homepage": "https://github.com/anjlinarwani/Challenge#readme"
+}
